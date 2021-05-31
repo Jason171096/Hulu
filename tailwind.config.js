@@ -4,7 +4,7 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      '3xl': '2000px'
+      '3xl': '1800px'
     },
   },
   variants: {
